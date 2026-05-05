@@ -13,7 +13,7 @@ MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC = "tower01/telemetry"
 
-GOOGLE_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzPG2tZeHIhWpLS5rdIWkm1szL2VtpIbunqTe47bnPhi2xgRorM2ZKDCfKg-6_jaB0xBA/exec"
+GOOGLE_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbz9R7d9BopAZKK8StO6X7RxQWl9Udk7Pa-KDvaoEpB3QW6iC9lMwEyyv2-_6h4JuDmcLQ/exec"
 
 # -------------------------------
 # FLASK APP (Cloud Run requirement)
